@@ -4,7 +4,7 @@ Nancu Petrica
 
 ![](./images_readme/Picture2.png)<br>
 
-Simple site designed for selling articles and accesories for "court tennis";
+Simple site designed for selling articles and accessories for "court tennis";
 Access to all pages will be done using the navigation bar at the top of the site.
 
 ![](./images_readme/Picture3.png)<br>
@@ -15,7 +15,7 @@ The database used is phpmyadmin.
 
 
 
-The first page that will open is !!!!!!!!!!"home_default.php"!!!!!! Here are the products from the store, displayed by category, the page is intended for the guest user who can check the items for sale without being able to add to the basket or edit. Any attempt to add a product or access the basket without being logged in will redirect you to the login page.
+The first page that will open is !!!!!!!!!!"home_default.php"!!!!!! Here are the products from the store, displayed by category, the page is intended for the guest user who can check the items for sale without the permission to add items or edit the cart. Any attempt to add a product or access the cart without being logged in will redirect you to the login page.
 
 On the first page there is a button in the navigation bar for fast login directly through a pop-up or register that redirects us to another page.
 If the login is accessed from the home page and the credentials are not correct, the user is shown an error on the special login page where he can switch to account registration.
